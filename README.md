@@ -1,8 +1,7 @@
 # Hilo
 ### Author
 Aaron Whittier
-HILO
-whi1204@byui.edu
+ / HILO / whi1204@byui.edu
 
 # Overview
 Hilo is played by guessing a number based on a shown card. Points are awarded based on if the next card in the deck is higher or lower.
